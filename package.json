@@ -1,0 +1,12 @@
+{
+  "name": "ts-starter",
+  "version": "1.0.0",
+  "description": "Sample TypeScript Starter",
+  "main": "index.js",
+  "author": "Jovin Jijo",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.5.0",
+    "typescript": "^4.5.2"
+  }
+}
